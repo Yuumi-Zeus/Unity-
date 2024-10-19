@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Yuumi._1_状态模式.基础原型
+namespace YuumiDesignPattern._1.状态模式
 {
     /// <summary>
     /// 状态拥有者

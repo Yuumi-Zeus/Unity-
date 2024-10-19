@@ -1,10 +1,8 @@
-using System;
 using Sirenix.OdinInspector;
-using Sirenix.OdinInspector.Editor;
 using Sirenix.Utilities.Editor;
 using UnityEngine;
 
-namespace Yuumi._1_状态模式.基础原型
+namespace YuumiDesignPattern._1.状态模式
 {
     public class 状态模式原型测试启动脚本 : MonoBehaviour
     {
