@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/YuumiDesignPattern/1.\u72B6\u6001\u6A21\u5F0F/\u72B6\u6001\u6A21\u5F0F\u5B9E\u8DF5/1.\u6E38\u620F\u573A\u666F\u8F6C\u6362/Scenes/TestStart.unity"
+    path: "Assets/YuumiDesignPattern/1.\u72B6\u6001\u6A21\u5F0F/\u72B6\u6001\u6A21\u5F0F\u5B9E\u8DF5/1.\u6E38\u620F\u573A\u666F\u8F6C\u6362/Scenes/\u5B9E\u8DF5\u542F\u52A8\u573A\u666F.unity"
     guid: 5458d56095b50154fb99c704ea320ee2
   - enabled: 1
     path: "Assets/YuumiDesignPattern/1.\u72B6\u6001\u6A21\u5F0F/\u72B6\u6001\u6A21\u5F0F\u5B9E\u8DF5/1.\u6E38\u620F\u573A\u666F\u8F6C\u6362/Scenes/MainMenuScene.unity"
